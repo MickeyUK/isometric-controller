@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{68F79114-4D40-9AFB-0DE3-E1C6302DCBC2}") = "Isometric Controller", "Assembly-CSharp.csproj", "{B6700341-1B89-7468-A77F-9C296868AD3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6700341-1B89-7468-A77F-9C296868AD3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6700341-1B89-7468-A77F-9C296868AD3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6700341-1B89-7468-A77F-9C296868AD3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6700341-1B89-7468-A77F-9C296868AD3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
